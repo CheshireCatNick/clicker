@@ -1,0 +1,10 @@
+{
+    "name": "clicker",
+    "scripts": {
+        "start": "ts-node clicker.ts"
+    },
+    "dependencies": {
+        "robotjs": "0.6.0",
+        "ts-node": "10.9.1"
+    }
+}
